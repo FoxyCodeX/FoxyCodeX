@@ -25,7 +25,7 @@
 
 > Contact me
 
-- Discord: [notbeer#9204](https://discordapp.com/users/606353040336748584/)
+- Discord: [FoxyCodeX#1352](https://discordapp.com/users/847068651512922123/)
 
 <!-- Profile -->
 <br />

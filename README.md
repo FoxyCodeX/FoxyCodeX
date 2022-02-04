@@ -24,6 +24,7 @@
 > Contact me
 
 - [`Discord`](https://discordapp.com/users/847068651512922123/)
+- [`Instagram`]()
 
 <!-- Profile -->
 <br />

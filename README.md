@@ -36,7 +36,6 @@
     <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=FoxyCodeX&theme=material-palenight&hide_border=true" />
     <br /><br />
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=FoxyCodeX&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxyCodeX&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight" />
     <br /><br />
     <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=FoxyCodeX&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
   </div>

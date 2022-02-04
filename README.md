@@ -15,7 +15,7 @@
 <h2>📌 About me</h2>
 
 - 💻 I started programming very recently, so I'm still learning as I go. I'm open to any types of feedbacks!
-- 🎮 What game do I play? Of course <b>Minecraft<b>!
+- 🎮 What game do I play? Of course <b>Minecraft</b>!
 - 🕒 When I have free time, I usually start a new Project
 
 <!-- Socials -->

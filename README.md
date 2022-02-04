@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  <h2>Hello, I'm FoxyCodeX <img src="https://cdn.discordapp.com/attachments/887174106393477120/887174292599635978/chika-fujiwara-chika.gif" height="35px"></h2>
+  <h2>Hello, I'm FoxyCodeX <img src="https://images.app.goo.gl/roFpXFDpjiHCCB776" height="35px"></h2>
   </a>
   <br />
 </div>

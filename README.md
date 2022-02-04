@@ -23,7 +23,7 @@
 
 > Contact me
 
-- Discord: [FoxyCodeX#1352](https://discordapp.com/users/847068651512922123/)
+- [`Discord`](https://discordapp.com/users/847068651512922123/)
 
 <!-- Profile -->
 <br />

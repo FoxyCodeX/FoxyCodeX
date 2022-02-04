@@ -1,63 +1,43 @@
-<h1 align="center"> ザキです<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hi Everyone<br>I'm KiZakiXD</h1>
+<!-- Introduction -->
+<div align="center">
+  <h2> Hello, I'm notbeer <img src="https://cdn.discordapp.com/attachments/887174106393477120/887174292599635978/chika-fujiwara-chika.gif" height="35px"></h2>
+  </a>
+  <br />
+</div>
 
-<p align="center">
+<div>  
+  <a href="https://github.com/notbeer">
+    <img src="https://komarev.com/ghpvc/?username=notbeer&label=Visitors" alt="profile views" />
+  </a>
+</div>
 
-<img src="https://i.ibb.co/StYpMQt/null-20211216-WA0102.jpg" width="100%" alt="API Giphy logo"/>
+<!-- About -->
+<h2>📌 About me</h2>
 
-</p>
+- 💻 I started programming very recently, so I'm still learning as I go. I'm open to any types of feedbacks!
+- 🤖 I usually develop random websites, AI's, or random softwares.
+- ⚙️ I'm currently learning to work with different types of web app frameworks and TensorFlow.
+- 📂 I like to contribute to open source projects in any way possible.
+- 🏀 In my free time, I love to play basketball or watch movies/shows OR animes!
 
-[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/message/Z4XTRC3UZEUQI1)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/im.foxycodex)
-[<img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/FoxyCodeX)
+<!-- Socials -->
+<h2>🌐 Socials</h2>
 
-### I &nbsp;Personal Stuffs
+> Contact me
 
-- 💻 I'm currently learning `JavaScript` ⚗.
+- Discord: [notbeer#9204](https://discordapp.com/users/606353040336748584/)
 
-- 🤓 I'm a copy paste master.
-
-- 🔭 I'm trying to set a record, watching anime 1 season in a day.
-
-- 📝 Thanks To [`Team Provider Xploit`](https://github.com/KiZakiXd).
-
-- 🎩 Thanks To All Mastah.
-
-- Languages: &nbsp;
- 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-- Frameworks: &nbsp;
-
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### ⚙ &nbsp;GitHub Analytics
-
----
-
-<p align="center">
-
-  <a href="https://github.com/FoxyCodeX"><img src="https://github-readme-stats.vercel.app/api?username=FoxyCodeX&theme=tokyonight&show_icons=true" /></a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/FoxyCodeX"><img src="https://github-readme-streak-stats.herokuapp.com?user=FoxyCodeX&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/FoxyCodeX"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FoxyCodeX&theme=tokyonight&layout=compact" /></a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/FoxyCodeX"><img src="https://github-profile-trophy.vercel.app/?username=FoxyCodeX&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-
-</p>
+<!-- Profile -->
+<br />
+<details open="open">
+  <summary><b>☄️ Profile</b></summary>
+  <br />  
+  <div align="center">
+    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=notbeer&theme=material-palenight&hide_border=true" />
+    <br /><br />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=notbeer&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbeer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight" />
+    <br /><br />
+    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=notbeer&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
+  </div>
+</details>

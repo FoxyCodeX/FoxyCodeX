@@ -24,7 +24,8 @@
 > Contact me
 
 - [`Discord`](https://discordapp.com/users/847068651512922123/)
-- [`Instagram`]()
+- [`Instagram`](https://instagram.com/im.foxycodex)
+- [`WhatsApp`](https://wa.me/message/Z4XTRC3UZEUQI1)
 
 <!-- Profile -->
 <br />

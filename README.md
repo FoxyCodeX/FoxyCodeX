@@ -25,7 +25,7 @@
 
 - [`Discord`](https://discordapp.com/users/847068651512922123/)
 - [`Instagram`](https://instagram.com/im.foxycodex)
-- [`WhatsApp`](https://wa.me/message/Z4XTRC3UZEUQI1)
+- [`WhatsApp`](https://wa.me/19855311206/)
 
 <!-- Profile -->
 <br />

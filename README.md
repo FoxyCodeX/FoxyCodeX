@@ -6,7 +6,7 @@
 </div>
 
 <div>  
-  <a href="https://github.com/notbeer">
+  <a href="https://github.com/FoxyCodeX">
     <img src="https://komarev.com/ghpvc/?username=FoxyCodeX&label=Visitors" alt="profile views" />
   </a>
 </div>
